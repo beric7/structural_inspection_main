@@ -22,8 +22,9 @@ evaluation with this dataset.
 
 ## Structural Yolov4 Implementation
 
-- This implementation trains a custom model to detect crucial ***structural components*** found on the underside of bridges during the inspection process. This meant
-we had to create annotations and for all the images and convert them to yolov4 format. Below are some detection results from our trained model:
+This implementation trains a custom model to detect crucial ***structural components*** found on the underside of bridges during the inspection process. This meant
+we had to create annotations and for all the images and convert them to yolov4 format. The trained model achieved a **Mean Average Precision (mAP)** 
+score of **84.52%**. Below are some detection results from our trained model:
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/54971419/124635837-e45fc480-de55-11eb-97ea-d66ea55fcf8b.png" />
