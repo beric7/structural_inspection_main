@@ -17,13 +17,15 @@ can reduce the consumption to one singular GPU***.
 
 ## Darknet Yolov4 Implementation
 The Original Yolov4 Github implementation uses the Microsoft Common Objects in Context dataset (MS COCO). This dataset contains 328,000 images with
-annotations for object/keypoint detection and segmentation. Darknet Yolov4 produced faster and more accurate results than competitors during 
+annotations for object/keypoint detection and segmentation. Darknet Yolov4 produced ***faster and more accurate results than competitors*** during 
 evaluation with this dataset. 
 
 ## Structural Yolov4 Implementation
 
 This implementation trains a custom model to detect crucial ***structural components*** found on the underside of bridges during the inspection process. This meant
-we had to create annotations and for all the images and convert them to yolov4 format. The trained model achieved a **Mean Average Precision (mAP)** 
+we had to create annotations and for all the images and convert them to yolov4 format. 
+
+The trained model achieved a **Mean Average Precision (mAP)** 
 score of **84.52%**. Below are some detection results from our trained model:
 
 <p align="center">
