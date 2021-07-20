@@ -8,13 +8,21 @@ Structural Inspection YoloV4 [Github](https://github.com/beric7/YOLOv4_infrastru
 
 [Paper](https://arxiv.org/abs/2004.10934)
 
-**Yolov4 is a real-time neural network** used for ***Object Detection*** 
+**YoloV4 is a real-time state-of-the-arc object detector** 
 
+- Modern Neural Networks operated in real-time require significant power from multiple GPU's, while ***YoloV4 uses a Convolutional Neural Network (CNN) that
+can reduce the consumption to one singular GPU***. 
+
+- YoloV4 has comparable results to competing state-of-the-art real-time object detection models and compiles in half the time.
+
+## Original Paper
 The Original Yolov4 Github implementation uses the Microsoft Common Objects in Context dataset (MS COCO). This dataset contains 328,000 images with
 annotations for object/keypoint detection and segmentation. Darknet Yolov4 produced faster and more accurate results than competitors during 
 evaluation with this dataset. 
 
-Our implementation trains a custom model to detect crucial ***structural components*** found on the underside of bridges during the inspection process. This meant
+## Structural Yolov4 Implementation
+
+- This implementation trains a custom model to detect crucial ***structural components*** found on the underside of bridges during the inspection process. This meant
 we had to create annotations and for all the images and convert them to yolov4 format. Below are some detection results from our trained model:
 
 <p align="center">
