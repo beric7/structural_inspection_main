@@ -15,7 +15,7 @@ can reduce the consumption to one singular GPU***.
 
 - YoloV4 has comparable results to competing state-of-the-art real-time object detection models and compiles in half the time.
 
-## Original Paper
+## Darknet Yolov4 Implementation
 The Original Yolov4 Github implementation uses the Microsoft Common Objects in Context dataset (MS COCO). This dataset contains 328,000 images with
 annotations for object/keypoint detection and segmentation. Darknet Yolov4 produced faster and more accurate results than competitors during 
 evaluation with this dataset. 
