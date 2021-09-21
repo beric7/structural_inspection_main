@@ -21,7 +21,7 @@
 - [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
 
 #### Note the Referenced Papers
-**StyleGAN2** [paper](), we based our code on the following **StyleGAN2** [repository]()\
+**StyleGAN2** [paper](), we based our code on this **StyleGAN2** [repository]()\
 **InterfaceGAN** [paper](), we based our code on the official **InterfaceGAN** [repository]()\
 
 ### YoloV4
