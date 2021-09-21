@@ -3,25 +3,25 @@
 ## Associated Papers and Repositories
 
 ###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021
-***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted links don't work right now)***
-- [Structural Detail (object detection): SSD implementation]()
-- [Structural Detail (object detection): YOLOv4 implementation]()
-- [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation]()
-- [Corrosion Condition State Classification (semantic segmentation): DeeplabV3+ implementation]()
-- [Concrete Crack Detection (semantic segmentation): DeeplabV3+ implementation]()
-- [Bearing Condition State Classification (image classification): EfficientNet implementation]()
+***(COMING SOON - NOVEMBER 2021 - p.s. not all the following bulleted links work right now)***
+- :red_circle: [Structural Detail (object detection): SSD implementation]()
+- :green_circle: [Structural Detail (object detection): YOLOv4 implementation](https://github.com/beric7/YOLOv4_infrastructure)
+- :red_circle: [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation]()
+- :red_circle: [Corrosion Condition State Classification (semantic segmentation): DeeplabV3+ implementation]()
+- :red_circle: [Concrete Crack Detection (semantic segmentation): DeeplabV3+ implementation]()
+- :red_circle: [Bearing Condition State Classification (image classification): EfficientNet implementation]()
 
 #### Note the Referenced Papers
-**DeeplabV3+** [paper](), we based our code on this **DeeplabV3+** [repository]()\
-**YOLOv4** [paper](), we based our code on this **YOLOv4** [repository]()\
-**SSD** [paper](), we based our code on this **SSD** [repository]()\
-**EfficientNet** [paper](), we based our code on the official **EfficientNet** [repository]()
+**DeeplabV3+** [paper](https://arxiv.org/abs/1802.02611), we based our code on this **DeeplabV3+** [repository]()\
+**YOLOv4** [paper](https://arxiv.org/abs/2004.10934), we based our code on this **YOLOv4** [repository](https://github.com/AlexeyAB/darknet)\
+**SSD** [paper](https://arxiv.org/abs/1512.02325), we based our code on this **SSD** [repository]()\
+**EfficientNet** [paper](https://arxiv.org/abs/1905.11946), we based our code on the official **EfficientNet** [repository]()
 
 ---
 
 ### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 - [Paper](https://doi.org/10.1117/12.2595111)
-***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted links don't work right now)***
-- [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
+***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
+- :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
 
 #### Note the Referenced Papers
 **StyleGAN2** [paper](), we based our code on this **StyleGAN2** [repository]()\
