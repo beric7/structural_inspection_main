@@ -3,7 +3,7 @@
 ## Associated Papers and Repositories
 
 ###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021
-***(COMING SOON - NOVEMBER 2021 - p.s. the links don't work right now)***
+***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted links don't work right now)***
 - [Structural Detail (object detection): SSD implementation]()
 - [Structural Detail (object detection): YOLOv4 implementation]()
 - [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation]()
@@ -20,6 +20,7 @@
 ---
 
 ### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 - [Paper](https://doi.org/10.1117/12.2595111)
+***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted links don't work right now)***
 - [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
 
 #### Note the Referenced Papers
