@@ -2,7 +2,7 @@
 
 ## Associated Papers and Repositories
 
-###  "Development of Open-source Collaborative Structural Inspection Datasets"
+###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021
 ***(COMING SOON - NOVEMBER 2021)***
 - [Structural Detail (object detection): SSD implementation]()
 - [Structural Detail (object detection): YOLOv4 implementation]()
@@ -17,7 +17,7 @@
 **SSD** [paper](), we based our code on this **SSD** [repository]()\
 **EfficientNet** [paper](), we based our code on the official **EfficientNet** [repository]()
 
-### "Forecasting Infrastructure Deterioration with GAN-Inversion"
+### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021
 - [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
 
 #### Note the Referenced Papers
