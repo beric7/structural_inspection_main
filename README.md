@@ -17,6 +17,8 @@
 **SSD** [paper](), we based our code on this **SSD** [repository]()\
 **EfficientNet** [paper](), we based our code on the official **EfficientNet** [repository]()
 
+***
+
 ### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 - [Paper](https://doi.org/10.1117/12.2595111)
 - [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
 
@@ -24,6 +26,8 @@
 **StyleGAN2** [paper](), we based our code on this **StyleGAN2** [repository]()\
 **InterfaceGAN** [paper](), we based our code on the official **InterfaceGAN** [repository]()\
 
+***
+<!---
 ### YoloV4
 
 Structural Inspection YoloV4 [Github](https://github.com/beric7/YOLOv4_infrastructure)
@@ -71,4 +75,4 @@ score of **84.52%**. Below are some detection results from our trained model:
     <img src="https://user-images.githubusercontent.com/54971419/125977387-fac0a79d-369f-4c27-a577-56bb82e6937d.png" />
     <img src="https://user-images.githubusercontent.com/54971419/125977460-54fe4954-bd71-40b9-896e-b9af1e2daf7b.png" />
 </p>
-
+--->
