@@ -12,10 +12,10 @@
 - :red_circle: [Bearing Condition State Classification (image classification): EfficientNet implementation]()
 
 #### Note the Referenced Papers
-**DeeplabV3+** [paper](https://arxiv.org/abs/1802.02611), we based our code on this **DeeplabV3+** [repository]()\
+**DeeplabV3+** [paper](https://arxiv.org/abs/1802.02611), we based our code on this **DeeplabV3+** [repository](https://github.com/VainF/DeepLabV3Plus-Pytorch)\
 **YOLOv4** [paper](https://arxiv.org/abs/2004.10934), we based our code on this **YOLOv4** [repository](https://github.com/AlexeyAB/darknet)\
-**SSD** [paper](https://arxiv.org/abs/1512.02325), we based our code on this **SSD** [repository]()\
-**EfficientNet** [paper](https://arxiv.org/abs/1905.11946), we based our code on the official **EfficientNet** [repository]()
+**SSD** [paper](https://arxiv.org/abs/1512.02325), we based our code on this **SSD** [repository](https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_3_Object_Detection_Walk-through)\
+**EfficientNet** [paper](https://arxiv.org/abs/1905.11946), we based our code on the official **EfficientNet** [repository](https://github.com/lukemelas/EfficientNet-PyTorch)
 
 ---
 
@@ -24,8 +24,8 @@
 - :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
 
 #### Note the Referenced Papers
-**StyleGAN2** [paper](), we based our code on this **StyleGAN2** [repository]()\
-**InterfaceGAN** [paper](), we based our code on the official **InterfaceGAN** [repository]()\
+**StyleGAN2** [paper](http://arxiv.org/abs/1912.04958), we based our code on this **StyleGAN2** [repository](https://github.com/NVlabs/stylegan2-ada-pytorch)\
+**InterfaceGAN** [paper](https://arxiv.org/abs/2005.09635), we based our code on the official **InterfaceGAN** [repository](https://github.com/genforce/interfacegan)\
 
 ---
 <!---
