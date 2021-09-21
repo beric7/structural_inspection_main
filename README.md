@@ -5,11 +5,11 @@
 ###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021
 ***(COMING SOON - NOVEMBER 2021 - p.s. not all the following bulleted links work right now)***
 - :red_circle: [Structural Detail (object detection): SSD implementation](access/not_ready.png)
-- :red_circle: [Structural Detail (object detection): YOLOv4 implementation](https://github.com/beric7/YOLOv4_infrastructure)
-- :red_circle: [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation]()
-- :red_circle: [Corrosion Condition State Classification (semantic segmentation): DeeplabV3+ implementation]()
-- :red_circle: [Concrete Crack Detection (semantic segmentation): DeeplabV3+ implementation]()
-- :red_circle: [Bearing Condition State Classification (image classification): EfficientNet implementation]()
+- :red_circle: [Structural Detail (object detection): YOLOv4 implementation](access/not_ready.png)
+- :red_circle: [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation](access/not_ready.png)
+- :red_circle: [Corrosion Condition State Classification (semantic segmentation): DeeplabV3+ implementation](access/not_ready.png)
+- :red_circle: [Concrete Crack Detection (semantic segmentation): DeeplabV3+ implementation](access/not_ready.png)
+- :red_circle: [Bearing Condition State Classification (image classification): EfficientNet implementation](access/not_ready.png)
 
 #### Note the Referenced Papers
 **DeeplabV3+** [paper](https://arxiv.org/abs/1802.02611), we based our code on this **DeeplabV3+** [repository](https://github.com/VainF/DeepLabV3Plus-Pytorch)\
@@ -21,7 +21,7 @@
 
 ### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 - [Paper](https://doi.org/10.1117/12.2595111)
 ***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
-- :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
+- :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
 
 #### Note the Referenced Papers
 **StyleGAN2** [paper](http://arxiv.org/abs/1912.04958), we based our code on this **StyleGAN2** [repository](https://github.com/NVlabs/stylegan2-ada-pytorch)\
