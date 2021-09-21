@@ -3,7 +3,7 @@
 ## Associated Papers and Repositories
 
 ###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021
-***(COMING SOON - NOVEMBER 2021)***
+***(COMING SOON - NOVEMBER 2021 - p.s. the links don't work right now)***
 - [Structural Detail (object detection): SSD implementation]()
 - [Structural Detail (object detection): YOLOv4 implementation]()
 - [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation]()
