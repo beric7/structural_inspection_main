@@ -12,17 +12,17 @@
 - [Bearing Condition State Classification (image classification): EfficientNet implementation]()
 
 #### Note the Referenced Papers
-[DeeplabV3+ paper](), we based our code on this [DeeplabV3+ repository]()\
-[YOLOv4 paper](), we based our code on this [YOLOv4 repository]()\
-[SSD paper](), we based our code on this [SSD repository]()\
-[EfficientNet paper](), we based our code on this [EfficientNet repository]()
+**DeeplabV3+** [paper](), we based our code on this **DeeplabV3+** [repository]()\
+**YOLOv4** [paper](), we based our code on this **YOLOv4** [repository]()\
+**SSD** [paper](), we based our code on this **SSD** [repository]()\
+**EfficientNet** [paper](), we based our code on the official **EfficientNet** [repository]()
 
 ### "Forecasting Infrastructure Deterioration with GAN-Inversion"
 - [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
 
 #### Note the Referenced Papers
 **StyleGAN2** [paper](), we based our code on the following **StyleGAN2** [repository]()\
-**YOLOv4** [paper](), we based our code on this YOLOv4 [repository]()\
+**InterfaceGAN** [paper](), we based our code on the official **InterfaceGAN** [repository]()\
 
 ### YoloV4
 
