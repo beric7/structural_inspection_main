@@ -11,6 +11,7 @@
 - [Concrete Crack Detection (semantic segmentation): DeeplabV3+ implementation]()
 - [Bearing Condition State Classification (image classification): EfficientNet implementation]()
 
+#### Note the Referenced Papers
 [DeeplabV3+ paper](), we based our code on this [DeeplabV3+ repository]()\
 [YOLOv4 paper](), we based our code on this [YOLOv4 repository]()\
 [SSD paper](), we based our code on this [SSD repository]()\
@@ -18,6 +19,10 @@
 
 ### "Forecasting Infrastructure Deterioration with GAN-Inversion"
 - [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
+
+#### Note the Referenced Papers
+**StyleGAN2** [paper](), we based our code on the following **StyleGAN2** [repository]()\
+**YOLOv4** [paper](), we based our code on this YOLOv4 [repository]()\
 
 ### YoloV4
 
