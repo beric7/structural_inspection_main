@@ -17,7 +17,7 @@
 **SSD** [paper](), we based our code on this **SSD** [repository]()\
 **EfficientNet** [paper](), we based our code on the official **EfficientNet** [repository]()
 
-***
+---
 
 ### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 - [Paper](https://doi.org/10.1117/12.2595111)
 - [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
@@ -26,7 +26,7 @@
 **StyleGAN2** [paper](), we based our code on this **StyleGAN2** [repository]()\
 **InterfaceGAN** [paper](), we based our code on the official **InterfaceGAN** [repository]()\
 
-***
+---
 <!---
 ### YoloV4
 
