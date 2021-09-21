@@ -1,6 +1,25 @@
-# structural_inspection_main
+# Structural Inspection Main
 
-## YoloV4
+## Associated Papers and Repositories
+
+###  "Development of Open-source Collaborative Structural Inspection Datasets"
+***(COMING SOON - NOVEMBER 2021)***
+- [Structural Detail (object detection): SSD implementation]()
+- [Structural Detail (object detection): YOLOv4 implementation]()
+- [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation]()
+- [Corrosion Condition State Classification (semantic segmentation): DeeplabV3+ implementation]()
+- [Concrete Crack Detection (semantic segmentation): DeeplabV3+ implementation]()
+- [Bearing Condition State Classification (image classification): EfficientNet implementation]()
+
+[DeeplabV3+ paper](), we based our code on this [DeeplabV3+ repository]()
+[YOLOv4 paper](), we based our code on this [YOLOv4 repository]()
+[SSD paper](), we based our code on this [SSD repository]()
+[EfficientNet paper](), we based our code on this [EfficientNet repository]()
+
+### "Forecasting Infrastructure Deterioration with GAN-Inversion"
+- [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation]()
+
+### YoloV4
 
 Structural Inspection YoloV4 [Github](https://github.com/beric7/YOLOv4_infrastructure)
 
@@ -15,12 +34,12 @@ can reduce the consumption to one singular GPU***.
 
 - YoloV4 has comparable results to competing state-of-the-art real-time object detection models and compiles in half the time.
 
-## Darknet Yolov4 Implementation
+### Darknet Yolov4 Implementation
 The Original Yolov4 Github implementation uses the Microsoft Common Objects in Context dataset (MS COCO). This dataset contains 328,000 images with
 annotations for object/keypoint detection and segmentation. Darknet Yolov4 produced ***faster and more accurate results than competitors*** during 
 evaluation with this dataset. 
 
-## Structural Yolov4 Implementation
+### Structural Yolov4 Implementation
 
 This implementation trains a custom model to detect crucial ***structural components*** found on the underside of bridges during the inspection process. This meant
 we had to create annotations and for all the images and convert them to yolov4 format. 
