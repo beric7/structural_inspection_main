@@ -4,7 +4,7 @@
 - :green_circle: [Structural Detail (object detection): YOLOv4 implementation](https://github.com/beric7/YOLOv4_infrastructure)
 - :green_circle: [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation](https://github.com/beric7/material_segmentation)
 - :green_circle: [Corrosion Condition State Classification (semantic segmentation): DeeplabV3+ implementation](https://github.com/beric7/corrosion_cs_classification)
-- :red_circle: [Concrete Crack Detection (semantic segmentation): DeeplabV3+ implementation](access/not_ready.png)
+- :red_circle: [Concrete Crack Detection (semantic segmentation): DeeplabV3+ implementation](https://github.com/beric7/concrete_crack_detection)
 - :red_circle: [Bearing Condition State Classification (image classification): EfficientNet implementation](access/not_ready.png)
 
 ### Note the Referenced Papers
