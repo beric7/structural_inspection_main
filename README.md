@@ -3,7 +3,7 @@
 ## Associated Papers and Repositories
 
 ###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021
-- :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](Development of Open-source Collaborative Structural Inspection Datasets/README.md)
+- :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](access/not_ready.png)
 
 ---
 
