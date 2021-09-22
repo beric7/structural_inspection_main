@@ -2,12 +2,12 @@
 
 ## Associated Papers and Repositories
 
-###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021
+###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon)
 - :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](Dev_open_source_datasets/README.md)
 
 ---
 
-### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 - [Paper](https://doi.org/10.1117/12.2595111)
+### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 (E. Bianchi, M. Hebdon) \[[Paper](https://doi.org/10.1117/12.2595111)\]
 ***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
 
