@@ -5,7 +5,7 @@
 ###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021
 ***(COMING SOON - NOVEMBER 2021 - p.s. not all the following bulleted links work right now)***
 - :red_circle: [Structural Detail (object detection): SSD implementation](access/not_ready.png)
-- :red_circle: [Structural Detail (object detection): YOLOv4 implementation](access/not_ready.png)
+- :green_circle: [Structural Detail (object detection): YOLOv4 implementation](https://github.com/beric7/YOLOv4_infrastructure)
 - :green_circle: [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation](https://github.com/beric7/material_segmentation)
 - :red_circle: [Corrosion Condition State Classification (semantic segmentation): DeeplabV3+ implementation](access/not_ready.png)
 - :red_circle: [Concrete Crack Detection (semantic segmentation): DeeplabV3+ implementation](access/not_ready.png)
