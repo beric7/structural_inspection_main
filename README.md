@@ -3,7 +3,7 @@
 ## Associated Papers and Repositories
 
 ###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021
-- :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](/Development of Open-source Collaborative Structural Inspection Datasets/)
+- :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](Development of Open-source Collaborative Structural Inspection Datasets/README.md)
 
 ---
 
@@ -13,7 +13,7 @@
 
 #### Note the Referenced Papers
 **StyleGAN2** [paper](http://arxiv.org/abs/1912.04958), we based our code on this **StyleGAN2** [repository](https://github.com/NVlabs/stylegan2-ada-pytorch)\
-**InterfaceGAN** [paper](https://arxiv.org/abs/2005.09635), we based our code on the official **InterfaceGAN** [repository](https://github.com/genforce/interfacegan)\
+**InterfaceGAN** [paper](https://arxiv.org/abs/2005.09635), we based our code on the official **InterfaceGAN** [repository](https://github.com/genforce/interfacegan)
 
 ---
 <!---
