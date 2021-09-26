@@ -11,6 +11,11 @@
 ***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
 
+<p align="center">
+    <img src=/access/w_space_corrosion.gif />
+</p>
+
+
 #### Note the Referenced Papers
 **StyleGAN2** [paper](http://arxiv.org/abs/1912.04958), we based our code on this **StyleGAN2** [repository](https://github.com/NVlabs/stylegan2-ada-pytorch)\
 **InterfaceGAN** [paper](https://arxiv.org/abs/2005.09635), we based our code on the official **InterfaceGAN** [repository](https://github.com/genforce/interfacegan)
