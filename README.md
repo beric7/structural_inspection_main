@@ -13,7 +13,7 @@
 
 
 
-<p align="center">
+<p align="left">
     <img src="/w_space_corrosion.gif"  | width=300/>
 </p>
 
