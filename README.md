@@ -14,7 +14,7 @@
 
 
 <p align="center">
-    <img src="/w_space_corrosion.gif"  | width=600/>
+    <img src="/w_space_corrosion.gif"  | width=300/>
 </p>
 
 
