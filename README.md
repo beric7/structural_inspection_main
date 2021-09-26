@@ -11,8 +11,10 @@
 ***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
 
+
+
 <p align="center">
-    <img src=/access/w_space_corrosion.gif />
+    <img src="/access/w_space_corrosion.gif"  | width=600/>
 </p>
 
 
