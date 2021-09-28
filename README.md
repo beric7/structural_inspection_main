@@ -11,8 +11,6 @@
 ***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
 
-
-
 <p align="left">
     <img src="/w_space_corrosion.gif"  | width=300/>
 </p>
@@ -23,6 +21,27 @@
 **InterfaceGAN** [paper](https://arxiv.org/abs/2005.09635), we based our code on the official **InterfaceGAN** [repository](https://github.com/genforce/interfacegan)
 
 ---
+
+### "Bridge Inspection Component Registration for Damage Evolution" - 2021 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) 
+***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
+- :red_circle: [Component Registration codebase and results](access/not_ready.png)
+
+<p align="left">
+    <img src="/access/workflow.png"  | width=300/>
+</p>
+
+
+#### Note the Referenced Papers
+**SuperGlue** [paper](https://arxiv.org/abs/1911.11763), we based our code on the official **SuperGlue** [repository](https://github.com/magicleap/SuperGluePretrainedNetwork)\
+**RANSAC-FLOW** [paper](https://arxiv.org/abs/2004.01526), we based our code on the official **RANSAC-FLOW** [repository](https://github.com/XiSHEN0220/RANSAC-Flow)
+
+---
+
+
+
+
+
+
 <!---
 ### YoloV4
 
