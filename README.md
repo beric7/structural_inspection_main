@@ -22,7 +22,7 @@
 
 ---
 
-### "Bridge Inspection Component Registration for Damage Evolution" - 2021 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) 
+### "Bridge Inspection Component Registration for Damage Evolution" - 2021 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) \[[Paper (in review)](/Bridge_Inspection_Component_Registration_for_Damage_Evolution.pdf)\]
 ***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [Component Registration codebase and results](access/not_ready.png)
 
