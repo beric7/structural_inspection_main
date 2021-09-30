@@ -2,13 +2,16 @@
 
 ## Associated Papers and Repositories
 
-###  "Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) \[[Paper](access/not_ready.png)
+###  "Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) \[[Paper](access/not_ready.png)\]
 To access the table:
 - :red_circle: [Collaborative Dataset Link Table](access/not_ready.png)
+
 Contribute a dataset to the table:
-- :red_circle: [Collaborative Dataset Link Table](access/not_ready.png)
+- :red_circle: [Google form](access/not_ready.png)
+
 Submit an edit request: 
-- :red_circle: [Collaborative Dataset Link Table](access/not_ready.png)
+- :red_circle: [Google form](access/not_ready.png)
+
 Request to be a moderator and data steward: 
 - :red_circle: [Collaborative Dataset Link Table](access/not_ready.png)
 
