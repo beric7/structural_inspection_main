@@ -12,7 +12,7 @@
 
 ---
 
-###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon) \[[Paper](access/not_ready.png)
+###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon) \[[Paper](access/not_ready.png)\]
 - :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](Dev_open_source_datasets/README.md)
 
 ---
