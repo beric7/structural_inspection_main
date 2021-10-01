@@ -2,7 +2,7 @@
 
 ## Associated Papers and Repositories
 
-###  "Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) \[[Paper](access/not_ready.png)\]
+###  "Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) :red_circle: \[[Paper](access/not_ready.png)\]
 
 **Cataloged dataset data link table**
 - :red_circle: [To access the table](access/not_ready.png)
@@ -12,12 +12,12 @@
 
 ---
 
-###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon) \[[Paper](access/not_ready.png)\]
+###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon) :red_circle: \[[Paper](access/not_ready.png)\]
 - :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](Dev_open_source_datasets/README.md)
 
 ---
 
-### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 (E. Bianchi, M. Hebdon) \[[Paper](https://doi.org/10.1117/12.2595111)\]
+### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 (E. Bianchi, M. Hebdon) :green_circle: \[[Paper](https://doi.org/10.1117/12.2595111)\] :green_circle:\[[Open Access paper](/papers/SPIE_Proceedings_2021_Bianchi-ForecastingDeterioration.pdf)\]
 ***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-### "Bridge Inspection Component Registration for Damage Evolution" - 2021 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) \[[Paper (in review)](/Bridge_Inspection_Component_Registration_for_Damage_Evolution.pdf)\]
+### "Bridge Inspection Component Registration for Damage Evolution" - 2021 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) :yellow_circle: \[[Paper (in review)](/Bridge_Inspection_Component_Registration_for_Damage_Evolution.pdf)\]
 ***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [Component Registration codebase and results](access/not_ready.png)
 
