@@ -46,7 +46,7 @@
 **RANSAC-FLOW** [paper](https://arxiv.org/abs/2004.01526), we based our code on the official **RANSAC-FLOW** [repository](https://github.com/XiSHEN0220/RANSAC-Flow)
 
 ---
-### "Extending Datasets with Editable First-pass Annotations" - 2021 (E. Bianchi) :green_circle: \[[Paper](/papers/Project_and_Report - Eric Bianchi - 2021.pdf)\]
+### "Extending Datasets with Editable First-pass Annotations" - 2021 (E. Bianchi) :green_circle: \[[Paper](/papers/Project_and_Report_Eric_Bianchi_2021.pdf)\]
 ***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [Editable First-pass Annotations codebase and results](access/not_ready.png)
 ---
