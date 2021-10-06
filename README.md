@@ -5,7 +5,7 @@
 ###  "Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) :red_circle: \[[Paper](access/not_ready.png)\]
 
 **Cataloged dataset data link table**
-- :red_circle: [To access the table](access/not_ready.png)
+- :green_circle: [To access the table](https://docs.google.com/spreadsheets/d/1HzkWUTkw14bRwMAtMni9Sv9rbVigOUdi8AeAqJytE7w/edit#gid=0)
 - :red_circle: [Contribute a dataset to the table](access/not_ready.png)
 - :red_circle: [Submit an edit request](access/not_ready.png)
 - :red_circle: [Request to be a moderator and data steward](access/not_ready.png)
