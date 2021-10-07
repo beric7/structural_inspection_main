@@ -9,6 +9,7 @@ Link to access the table, contribute dataset links, submit edit request, or beco
 ---
 
 ###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
+Access all six datasets, the code, and the trained models here:
 - :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](Dev_open_source_datasets/README.md)
 
 ---
