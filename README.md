@@ -2,13 +2,13 @@
 
 ## Associated Papers and Repositories
 
-###  "Visual Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
+####  "Visual Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
 Link to access the table, contribute dataset links, submit edit request, or become a data steward:
 - :green_circle: [Cataloged Dataset](cataloged_review/README.md)
 
 ---
 
-###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
+####  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
 Access all six datasets, the code, and the trained models here:
 - :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](Dev_open_source_datasets/README.md)
 
