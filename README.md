@@ -19,7 +19,7 @@ Access all six datasets, the code, and the trained models here:
 - :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
 
 <p align="left">
-    <img src="/w_space_corrosion.gif"  | width=300/>
+    <img src="/w_space_corrosion.gif"  | width=100/>
 </p>
 
 
