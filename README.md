@@ -20,6 +20,7 @@ Access all six datasets, the code, and the trained models here:
 <p align="left">
     <img src="/w_space_corrosion.gif"  | width=100/>
 </p>
+
 ---
 
 ### "Bridge Inspection Component Registration for Damage Evolution" - 2021 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) :yellow_circle: \[[Paper (in review)](/Bridge_Inspection_Component_Registration_for_Damage_Evolution.pdf)\]
