@@ -8,7 +8,7 @@
 - :green_circle: [To access the table](https://docs.google.com/spreadsheets/d/1HzkWUTkw14bRwMAtMni9Sv9rbVigOUdi8AeAqJytE7w/edit?usp=sharing)
 - :red_circle: [Contribute a dataset to the table](access/not_ready.png)
 - :red_circle: [Submit an edit request](access/not_ready.png)
-- :red_circle: [Request to be a moderator and data steward](access/not_ready.png)
+- :green_circle: [Request to be a moderator and data steward](https://forms.gle/vihSSVbEKoDzqEHp9)
 
 ---
 
