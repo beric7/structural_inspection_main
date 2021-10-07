@@ -3,12 +3,8 @@
 ## Associated Papers and Repositories
 
 ###  "Visual Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
-
-**Cataloged dataset data link table**
-- :green_circle: [To access the table](https://docs.google.com/spreadsheets/d/1HzkWUTkw14bRwMAtMni9Sv9rbVigOUdi8AeAqJytE7w/edit?usp=sharing)
-- :green_circle: [Contribute a dataset to the table](https://forms.gle/8T3n6ojmW2zYv3vr5)
-- :green_circle: [Submit an edit request](https://forms.gle/dzYVF9hDy14mxif56)
-- :green_circle: [Request to be a moderator and data steward](https://forms.gle/vihSSVbEKoDzqEHp9)
+Link to access the table, contribute dataset links, submit edit request, or become a data steward:
+- :green_circle: [Cataloged Dataset](cataloged_review/README.md)
 
 ---
 
