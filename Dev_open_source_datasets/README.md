@@ -17,5 +17,5 @@
 
 ### Recent Updates:
  - 10/7/2021: 
- - - 'Concrete Crack Detection' LCW and Conglomerate dataset and models have been linked!
- - - 'Bearing Condition State Classification' dataset and models have been linked!
+   - 'Concrete Crack Detection' LCW and Conglomerate dataset and models have been linked!
+   - 'Bearing Condition State Classification' dataset and models have been linked!
