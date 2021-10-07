@@ -12,3 +12,8 @@
 **YOLOv4** [paper](https://arxiv.org/abs/2004.10934), we based our code on this **YOLOv4** [repository](https://github.com/AlexeyAB/darknet)\
 **SSD** [paper](https://arxiv.org/abs/1512.02325), we based our code on this **SSD** [repository](https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_3_Object_Detection_Walk-through)\
 **EfficientNet** [paper](https://arxiv.org/abs/1905.11946), we based our code on the official **EfficientNet** [repository](https://github.com/lukemelas/EfficientNet-PyTorch)
+
+-----
+
+### Recent Updates:
+ - 10/7/2021: 'Concrete Crack Detection' LCW and Conglomerate dataset and models have been linked!
