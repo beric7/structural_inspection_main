@@ -15,7 +15,7 @@ Access all six datasets, the code, and the trained models here:
 ---
 
 #### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 (E. Bianchi, M. Hebdon) :green_circle: \[[Paper](https://doi.org/10.1117/12.2595111)\] :green_circle:\[[Open Access Paper](/papers/SPIE_Proceedings_2021_Bianchi-ForecastingDeterioration.pdf)\]
-***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
+***(COMING SOON - December 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
 <p align="left">
     <img src="/w_space_corrosion.gif"  | width=100/>
@@ -24,7 +24,7 @@ Access all six datasets, the code, and the trained models here:
 ---
 
 #### "Bridge Inspection Component Registration for Damage Evolution" - 2021 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) :yellow_circle: \[[Paper (in review)](/Bridge_Inspection_Component_Registration_for_Damage_Evolution.pdf)\]
-***(COMING SOON - NOVEMBER 2021 - p.s. the following bulleted link doesn't work right now)***
+***(COMING SOON - December 2021 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [Component Registration codebase and results](access/not_ready.png)
 
 <p align="left">
