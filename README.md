@@ -38,6 +38,6 @@ Access all six datasets, the code, and the trained models here:
 
 ---
 ### "Extending Datasets with Editable First-pass Annotations" - 2021 (E. Bianchi) :green_circle: \[[Paper](/papers/Project_and_Report_Eric_Bianchi_2021.pdf)\]
-***(COMING SOON - December 2021 - p.s. the following bulleted link doesn't work right now)***
-- :green_circle: [Editable First-pass Annotations codebase and results](beric7/first_pass_annotations/)
+
+- :green_circle: [Editable First-pass Annotations codebase and results](/beric7/first_pass_annotations/)
 ---
