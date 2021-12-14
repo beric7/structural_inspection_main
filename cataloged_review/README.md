@@ -10,4 +10,6 @@
 
 ### Recent Updates:
  - 10/7/2021: 
-   - 'The table and forms are all linked and ready to use!'
+   - 'The table and forms are all linked and ready to use
+ - 12/14/2021:
+   - 'Submitted journal "Automation in Construction"
