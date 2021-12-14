@@ -1,5 +1,8 @@
 # Structural Inspection Main
 
+## Updates!
+12/14/2021 - Annotation study repository has been published. 
+
 ## Associated Papers and Repositories
 
 ####  "Visual Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
