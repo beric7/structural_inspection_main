@@ -2,6 +2,7 @@
 
 ## Updates!
 12/14/2021 - Annotation study repository has been published. 
+12/31/2021 - StyleGAN2 repository has been published. 
 
 ## Associated Papers and Repositories
 
@@ -18,8 +19,8 @@ Access all six datasets, the code, and the trained models here:
 ---
 
 #### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 (E. Bianchi, M. Hebdon) :green_circle: \[[Paper](https://doi.org/10.1117/12.2595111)\] :green_circle:\[[Open Access Paper](/papers/SPIE_Proceedings_2021_Bianchi-ForecastingDeterioration.pdf)\]
-***(COMING SOON - December 2021 - p.s. the following bulleted link doesn't work right now)***
-- :red_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
+
+- :green_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
 <p align="left">
     <img src="/w_space_corrosion.gif"  | width=100/>
 </p>
