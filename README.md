@@ -20,7 +20,7 @@ Access all six datasets, the code, and the trained models here:
 
 #### "Forecasting Infrastructure Deterioration with GAN-Inversion" - 2021 (E. Bianchi, M. Hebdon) :green_circle: \[[Paper](https://doi.org/10.1117/12.2595111)\] :green_circle:\[[Open Access Paper](/papers/SPIE_Proceedings_2021_Bianchi-ForecastingDeterioration.pdf)\]
 
-- :green_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](access/not_ready.png)
+- :green_circle: [GAN-Inversion codebase: StyleGAN2 and InterfaceGAN implementation](forecasting_deterioration/README.md)
 <p align="left">
     <img src="/w_space_corrosion.gif"  | width=100/>
 </p>
