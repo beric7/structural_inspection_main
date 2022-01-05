@@ -1,8 +1,8 @@
 # Structural Inspection Main
 
 ## Updates!
-12/14/2021 - Annotation study repository has been published. 
-12/31/2021 - StyleGAN2 repository has been published. 
+- 12/14/2021 - Annotation study repository has been published. 
+- 12/31/2021 - StyleGAN2 repository has been published. 
 
 ## Associated Papers and Repositories
 
