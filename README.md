@@ -1,6 +1,7 @@
 # Structural Inspection Main
 
 ## Updates!
+- 5/17/2023 - Its been a while... but I am planning to make big updates and refactor structural inspection main (stay tuned!)
 - 12/14/2021 - Annotation study repository has been published. 
 - 12/31/2021 - StyleGAN2 repository has been published. 
 
