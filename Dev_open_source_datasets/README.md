@@ -1,5 +1,5 @@
-###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
-***(COMING SOON - December 2021 - p.s. not all the following bulleted links work right now)***
+###  "Development of Open-source Collaborative Structural Inspection Datasets" - 2022 (E. Bianchi, M. Hebdon) :green_circle: \[[Paper](https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0001045)\]
+***(COMING SOON - 2023 - p.s. not all the following bulleted links work right now)***
 - :red_circle: [Structural Detail (object detection): SSD implementation](../access/not_ready.png)
 - :green_circle: [Structural Detail (object detection): YOLOv4 implementation](https://github.com/beric7/YOLOv4_infrastructure)
 - :green_circle: [Structural Material Detection (semantic segmentation): DeeplabV3+ implementation](https://github.com/beric7/material_segmentation)
