@@ -7,13 +7,13 @@
 
 ## Associated Papers and Repositories
 
-####  "Visual Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
+####  "Visual Structural Inspection Datasets" - 2022 (E. Bianchi, M. Hebdon) :green_circle: \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580522001728)\]
 Link to access the table, contribute dataset links, submit edit request, or become a data steward:
 - :green_circle: [Cataloged Dataset](cataloged_review/README.md)
 
 ---
 
-####  "Development of Open-source Collaborative Structural Inspection Datasets" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
+####  "Development of Open-source Collaborative Structural Inspection Datasets" - 2022 (E. Bianchi, M. Hebdon) :green_circle: \[[Paper](https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0001045)\]
 Access all six datasets, the code, and the trained models here:
 - :green_circle: [Development of Open-source Collaborative Structural Inspection Datasets](Dev_open_source_datasets/README.md)
 
@@ -28,8 +28,8 @@ Access all six datasets, the code, and the trained models here:
 
 ---
 
-#### "Bridge Inspection Component Registration for Damage Evolution" - 2021 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) :yellow_circle: \[[Paper (in review)](/Bridge_Inspection_Component_Registration_for_Damage_Evolution.pdf)\]
-***(COMING SOON - December 2021 - p.s. the following bulleted link doesn't work right now)***
+#### "Bridge Inspection Component Registration for Damage Evolution" - 2022 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) :green_circle: \[[Paper](/Bridge_Inspection_Component_Registration_for_Damage_Evolution.pdf)\]
+***(COMING SOON - 2023 - p.s. the following bulleted link doesn't work right now)***
 - :red_circle: [Component Registration codebase and results](access/not_ready.png)
 
 <p align="left">
