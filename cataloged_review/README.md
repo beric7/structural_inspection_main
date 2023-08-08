@@ -1,4 +1,4 @@
-###  "Visual Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) :yellow_circle: \[[Paper](access/not_ready.png)\] (In review)
+###  "Visual Structural Inspection Datasets: A Cataloged Review" - 2021 (E. Bianchi, M. Hebdon) :green_circle: \[[Paper](https://doi.org/10.1016/j.autcon.2022.104299)\]
 
 **Cataloged dataset data link table**
 - :green_circle: [To access the table](https://docs.google.com/spreadsheets/d/1HzkWUTkw14bRwMAtMni9Sv9rbVigOUdi8AeAqJytE7w/edit?usp=sharing)
@@ -9,7 +9,6 @@
 -----
 
 ### Recent Updates:
- - 10/7/2021: 
-   - 'The table and forms are all linked and ready to use
- - 12/14/2021:
-   - 'Submitted journal "Automation in Construction"
+ - 8/7/2023: 'Updated links!
+ - 10/7/2021: 'The table and forms are all linked and ready to use
+ - 12/14/2021: 'Submitted journal "Automation in Construction"
