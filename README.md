@@ -1,6 +1,7 @@
 # Structural Inspection Main
 
 ## Updates!
+- 1/22/2024 - Code for Registration using Superglue and RANSACFlow
 - 8/7/2023 - Updated links and changed a lot of red-circles to green-circles (in other words, the links to papers, datasets, etc. are updated).
 - 5/17/2023 - Its been a while... but I am planning to make big updates and refactor structural inspection main (stay tuned!)
 - 12/14/2021 - Annotation study repository has been published. 
@@ -30,8 +31,7 @@ Access all six datasets, the code, and the trained models here:
 ---
 
 #### "Bridge Inspection Component Registration for Damage Evolution" - 2022 (E. Bianchi, S. Nazmus, C. Woolsey, M. Hebdon) :green_circle: \[[Paper](/Bridge_Inspection_Component_Registration_for_Damage_Evolution.pdf)\]
-***(COMING SOON - 2023 - p.s. the following bulleted link doesn't work right now)***
-- :red_circle: [Component Registration codebase and results](access/not_ready.png)
+- :green_circle: [Component Registration codebase and results](https://github.com/beric7/Inspection-Image-Registration)
 
 <p align="left">
     <img src="/access/workflow.png"  | width=300/>
