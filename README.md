@@ -1,6 +1,7 @@
 # Structural Inspection Main
 
 ## Updates!
+- 9/1/2025 - A lot has changed in just a year! New all-encompassing transformers like DinoV3 and better registration algorithms... Nothing structurally specific, but I will be making some amodal segmentation repos pubilcly available soon for 2D DIA. 
 - 1/22/2024 - Code for Registration using Superglue and RANSACFlow
 - 8/7/2023 - Updated links and changed a lot of red-circles to green-circles (in other words, the links to papers, datasets, etc. are updated).
 - 5/17/2023 - Its been a while... but I am planning to make big updates and refactor structural inspection main (stay tuned!)
